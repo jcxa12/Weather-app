@@ -1,0 +1,15 @@
+body {
+	background-color: #cfe2ff;
+}
+
+.search-column {
+    background-color: #b4cef5;
+}
+
+.list-group-item {
+    line-height: 0.5;
+    border: none;
+}
+.card-body {
+    flex:auto
+}
