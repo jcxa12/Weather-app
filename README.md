@@ -41,15 +41,15 @@ The humidity
 
 * Display city
   
-   ![Screenshot of the city weather](XXXX)
+   ![Screenshot of the city weather](https://github.com/jcxa12/Weather-app/blob/main/images/city1.JPG)
 
   * Display another city
   
-   ![Screenshot of the second city](XXXX)
+   ![Screenshot of the second city](https://github.com/jcxa12/Weather-app/blob/main/images/city2.JPG)
 
   * Error message
   
-   ![Screenshot of the error message](XXXX)
+   ![Screenshot of the error message](https://github.com/jcxa12/Weather-app/blob/main/images/errormessage.JPG)
 
 ### Credits
 
