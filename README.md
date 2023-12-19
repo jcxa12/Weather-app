@@ -35,7 +35,7 @@ The humidity
 
 ### Links
 
-* Link to my weather dashboard [Weather dashboard JP](https://jcxa12.github.io/Daily-Planner/)
+* Link to my weather dashboard [Weather dashboard JP](https://jcxa12.github.io/Weather-app/)
 
 ### Screenshots
 
